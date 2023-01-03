@@ -6,3 +6,5 @@ jobe
 /var/www/html/jobe
 EOF
 cat "$var"
+
+echo "made by s11"
